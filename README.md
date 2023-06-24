@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nipun Dhananjaya</h1>
 <h3 align="center">A passionate software engineering student from Sri Lanka</h3>
 
+<img src="https://img.freepik.com/free-vector/programmer-composition-with-doodle-character-distracted-programmer-got-error-his-code-vector-illustration_1284-66931.jpg?w=2000"> 
 - 🔭 I’m currently working on [Portfolio](https://github.com/Nipun-Dhananjaya/MyPortfolio.git)
 
 - 🌱 I’m currently learning **GDSE**
